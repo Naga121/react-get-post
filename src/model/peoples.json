@@ -1,0 +1,24 @@
+{
+  "peoples": [
+    {
+      "id": 1,
+      "name": "Thota",
+      "city": "hyd"
+    },
+    {
+      "id": 2,
+      "name": "Naga",
+      "city": "hyd"
+    },
+    {
+      "id": "4",
+      "name": "Raju",
+      "city": "Hyd"
+    },
+    {
+      "id": "3",
+      "name": "naga",
+      "city": "yud"
+    }
+  ]
+}
