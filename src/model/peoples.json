@@ -20,5 +20,79 @@
       "name": "naga",
       "city": "yud"
     }
+  ],
+  "books":[
+    {
+      "id": 1,
+      "name": "Shadow and Bone",
+      "author": " Leigh Bardugo & GRISHA",
+      "price": "675",
+      "Description": "Saint. Orphaned and expendable, Alina Starkov is a soldier who knows she may not survive her first trek across the Shadow Fold--a swath of unnatural darkness crawling with monsters. But when her regiment is attacked, Alina unleashes dormant magic not even she knew she possessed.",
+      "pages": "0-200",
+      "image": "sb.jpg"
+    },
+    {
+      "id": 2,
+      "name": "The Song of Achilles",
+      "author": " Madeline Miller",
+      "price": "856",
+      "Description": " About the BookA New York Times BestsellerAt once a scholar's homage to The Iliad and startlingly original work of art....A book I could not put down.Ann Patchett,A thrilling, profoundly moving, and utterly unique retelling of the legend of Achilles and the Trojan War from the bestselling author of Circe",
+      "pages": "0-250",
+      "image": "sd.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Siege and Storm",
+      "author": " Leigh Bardugo ",
+      "price": "686",
+      "Description": "Saint. Alina Starkov's power has grown, but not without a price. She is the Sun Summoner--hunted across the True Sea, haunted by the lives she took on the Shadow Fold. But she and Mal can't outrun their enemies for long.",
+      "pages": "0-150",
+      "image": "ss.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Karma",
+      "author": " Sadhguru & Sadhguru  ",
+      "price": "1327",
+      "Description": "In Karma, Sadhguru seeks to put you back in the driver's seat, turning you from a terror-struck passenger to a confident driver navigating the course of your own destiny. By living consciously and fully inhabiting each moment, you can free yourself from the cycle.",
+      "pages": "0-255",
+      "image": "k.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Truths We Hold",
+      "author": "Kamala Harris",
+      "price": "1552",
+      "Description": "  About the Book A New York Times bestseller From Vice President-Elect Kamala Harris, one of America's most inspiring political leaders, a book about the core truths that unite us, and the long struggle to discern what those truths are and how best to act upon them, in her own life and across the life of our countryVice President-Elect Kamala Harris's commitment to speaking truth is informed by her upbringing. The daughter of immigrants, she was raised in an Oakland, California community that cared deeply about social justice; her parents--an esteemed economist from Jamaica and an admired cancer researcher from India--met as activists in the civil rights movement when they were graduate students at Berkeley.",
+      "pages": "0-555",
+      "image": "kh.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Less",
+      "author": "Andrew Sean Greer ",
+      "price": "949",
+      "Description": " A wedding invitation arrives in the mail: your boyfriend of the past nine years is engaged to someone else. You can't say yes--it would be too awkward--and you can't say no--it would look like defeat. On your desk are a series of invitations to half-baked literary events around the world.",
+      "pages": "0-623",
+      "image": "le.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Rule of Wolves",
+      "author": " Leigh Bardugo ",
+      "price": "1551",
+      "Description": " Deep undercover, Nina Zenik risks discovery and death as she wages war on Fjerda from inside its capital. But her desire for revenge may cost her country its chance at freedom and Nina the chance to heal her grieving heart.",
+      "pages": "0-205",
+      "image": "rw.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Four Winds",
+      "author": " Kristin Hannah",
+      "price": "1968",
+      "Description": "From the number-one bestselling author of The Nightingale and The Great Alone comes a powerful American epic about love and heroism and hope, set during the Great Depression,",
+      "pages": "0-325",
+      "image": "kh1.jpg"
+    }
   ]
 }

@@ -1,0 +1,18 @@
+
+
+.card
+{
+    float: left;
+    width: 200px;
+    height: 250px;
+    padding: 2px;
+    margin: 40px;
+    background-color: lightblue;
+    box-shadow: 2px 2px 2px grey;
+    font-weight: bold;
+}
+
+img{
+    width: 150px;
+    height: 120px;
+}

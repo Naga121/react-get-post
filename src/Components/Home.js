@@ -6,6 +6,8 @@ import Api from './Api';
 import About from './About';
 import Contact from './Contact';
 import Hook from './Hook';
+import Shop from './Shop';
+
  
 class Home extends React.Component {
     render() {
@@ -28,6 +30,9 @@ class Home extends React.Component {
                                 <li className="nav-item">
                                     <Link className="nav-link" to="/hook">Hook</Link>
                                 </li>
+                                <li className="nav-item">
+                                    <Link className="nav-link" to="/shop">Shoping</Link>
+                                </li>
                             </ul>
                         </nav>
                     </div>
@@ -36,6 +41,8 @@ class Home extends React.Component {
                         <Route path="/contact" component={Contact}></Route>
                         <Route path="/about" component={About}></Route>
                         <Route path="/hook" component={Hook}></Route>
+                        <Route path="/shop" component={Shop}></Route>
+
                     </div>
                 </div>
             </Router>
